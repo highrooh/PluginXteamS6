@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7e180784-0b4b-4a9a-ab26-c1fb26b8fcbb": {
+      "ProjectGuid": "7e180784-0b4b-4a9a-ab26-c1fb26b8fcbb",
+      "DisplayName": "XteamPlugin",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
